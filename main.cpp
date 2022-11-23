@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-   int n,a=0,b=1,c=0;
+   int n, a=0, b=1, c=0;
+
    cout << "inserisci un numero intero" << endl;
    cin >> n;
    if (n >= 2) {
